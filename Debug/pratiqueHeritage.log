@@ -1,0 +1,7 @@
+﻿  BaseEnemy.cpp
+  Enemy1.cpp
+  Enemy2.cpp
+  main.cpp
+D:\Segura Antonio\POO\pratiqueHeritage\main.cpp(8,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+  Génération de code en cours...
+  pratiqueHeritage.vcxproj -> D:\Segura Antonio\POO\pratiqueHeritage\Debug\pratiqueHeritage.exe
